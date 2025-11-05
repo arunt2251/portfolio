@@ -72,7 +72,7 @@ const Hero = () => {
           </h1>
 
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed text-justify">
-           Iam MCA student specializing in Cybersecurity at <span className="text-primary font-semibold">
+           I am MCA student specializing in Cybersecurity at <span className="text-primary font-semibold">
               Lovely Professional University,
             </span> passionate about securing the digital world. My interests lie in ethical hacking, penetration testing, network defense, and AI-based threat detection.
           
